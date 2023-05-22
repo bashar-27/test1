@@ -1,0 +1,34 @@
+
+.s{
+    display:inline-block;
+    font-weight:700;
+  }
+  .tribute-info{
+    padding:5px;
+    margin:4px auto;
+  }
+  h1,p{
+    text-align:center;
+  }
+  ul > li{
+      margin:4px;
+    padding:3px;
+    
+  }
+  ul{
+    display:block;
+  }
+  .img-div{
+    align-items:center;
+  }
+  #image{
+    max-width:100%;
+    height:auto;
+    align-items:center;
+    text-align:center ;
+    padding:0 auto;
+    margin:0 auto;
+  }
+  img{
+    display:block;
+  }
